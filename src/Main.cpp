@@ -12,7 +12,6 @@ int main()
 	//sf::Vector2i frame_perseo = { 0, 0 }; //Inicializa el frame del sprite de perseo
 
 	//Determina las caracteristicas de Perseo (jugador)
-
 	sf::Vector2i player = sf::Vector2i(13, 13);
 	sf::Texture playerTex;
 	playerTex.loadFromFile("personaje.png");
